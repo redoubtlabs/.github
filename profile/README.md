@@ -4,7 +4,7 @@
 
 Redoubt Labs builds systems for modelling, simulating, evaluating, and governing complex organisations before consequences are real.
 
-We started with enterprise architecture and cyber-resilience simulation, and are extending that foundation into agentic organisations: AI-run teams, simulated companies, digital services, and future agentic marketplaces.
+We started with enterprise architecture and cyber-resilience simulation, and are extending that foundation into agentic organisations: AI-assisted teams, simulated companies, digital services, and future agentic marketplaces.
 
 ## Current focus
 
