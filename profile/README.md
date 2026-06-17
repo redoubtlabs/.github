@@ -28,3 +28,4 @@ That is the direction behind Redoubt Labs.
 Private build and research-preview mode.
 
 Website: https://redoubtlabs.io
+Blog:    https://blog.redoubtlabs.dev
